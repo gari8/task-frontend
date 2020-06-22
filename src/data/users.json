@@ -1,0 +1,60 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "taro",
+            "age": 20,
+            "affinity": 50,
+            "description": "nice!!!!!!!!!",
+            "url": "man1"
+        },
+        {
+            "id": 2,
+            "name": "kotaro",
+            "age": 21,
+            "affinity": 60,
+            "description": "nice!!!!!!!!!",
+            "url": "man2"
+        },
+        {
+            "id": 3,
+            "name": "kouya",
+            "age": 27,
+            "affinity": 60,
+            "description": "nice!!!!!!!!!",
+            "url": "man1"
+        },
+        {
+            "id": 3,
+            "name": "kotaro",
+            "age": 31,
+            "affinity": 70,
+            "description": "nice!!!!!!!!!",
+            "url": "man2"
+        },
+        {
+            "id": 4,
+            "name": "souji",
+            "age": 23,
+            "affinity": 45,
+            "description": "nice!!!!!!!!!",
+            "url": "man1"
+        },
+        {
+            "id": 5,
+            "name": "takahito",
+            "age": 29,
+            "affinity": 65,
+            "description": "nice!!!!!!!!!",
+            "url": "man2"
+        },
+        {
+            "id": 6,
+            "name": "masato",
+            "age": 22,
+            "affinity": 80,
+            "description": "nice!!!!!!!!!",
+            "url": "man1"
+        }
+    ]
+}
